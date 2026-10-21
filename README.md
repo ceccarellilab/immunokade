@@ -78,3 +78,8 @@ The output is saved in the `data_output` folder. Usage:
 ```bash
 python ./ESM2FT_IM_pred.py ./data_input/data_coded.csv
 ```
+
+______________________________________________________________________________________________________________________________
+
+## Data Availability
+[https://doi.org/10.5281/zenodo.21496931]https://doi.org/10.5281/zenodo.21496931
