@@ -67,7 +67,7 @@ Requirements:
 
 ### 2. Run Predictions
 
-- `IK_pred.py` - Given the input file coded as required, it generate the BA, EL and IM score.<br>
+`IK_pred.py` - Given the input file coded as required, it generate the BA, EL and IM score.<br>
 The output is saved in the `data_output` folder.
 
 Usage:
@@ -90,7 +90,7 @@ Examples:
 python ./IK_pred.py ./data_input/example_viral_coded.csv -d cpu
 
 # Run on a specific GPU (e.g. the second one)
-python ./IK_pred.py ./data_input/example_viral_coded.csv -g 1
+python ./IK_pred.py ./data_input/example_viral_coded.csv -g 2
 ```
 
 
