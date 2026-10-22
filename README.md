@@ -13,7 +13,7 @@ ________________________________________________________________________________
 │   ├── config.py          # Global variables config
 │   ├── classes.py         # Objects definitions
 │   ├── utils.py           # Functions for load and use IK model (IK_pred.py)
-│   └── hla_pocket.csv     # dict HLA : 34 amino acids binding poket
+│   └── hla_pocket.csv     # Dict HLA : 34 amino acids binding poket
 ├── IK_input.py            # Input preprocessing script
 └── IK_pred.py             # BA, EL, IM predictions script
 ```
