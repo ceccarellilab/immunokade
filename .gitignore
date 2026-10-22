@@ -1,0 +1,21 @@
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Python
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local env path
+
+.env
+
+# OS / editor
+
+.DS_Store
+.vscode/
+.idea/
