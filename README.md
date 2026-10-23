@@ -85,9 +85,9 @@ python ./IK_pred.py ./data_input/example_viral_coded.csv
 By default, the script runs on the GPU (device 0). The following options are available:
 
 | Option | Description | Default |
-|--------|-------------|---------|
+|----------|------------|---------|
 | `-d`, `--device` | Device to run on: `gpu` or `cpu` | `gpu` |
-| `-g`, `--gpu-id` | Index of the GPU to use (ignored if `--device cpu`) | `0` |
+| `-g`, `--gpu_id` | Index of the GPU to use (ignored if `--device cpu`) | `0` |
 | `-bs`, `--batch_size` | Number of samples loaded into the model per batch. Lower it if you run out of memory. | `2048` |
 
 Examples:
