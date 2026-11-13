@@ -52,7 +52,8 @@ ________________________________________________________________________________
 
 ### 1. Input Preparation
 `IK_input.py` - Converts your input file into the format required by the ImmunoKade model.<br>
-The output is saved in the `data_input` folder.
+The output is saved in the `data_input` folder as csv with the `_coded.csv` extension at the ned of the file name.
+The output is saved as a CSV file in the `data_input` folder, with `_coded` appended to the original file name (e.g., `example_viral.csv` → `example_viral_coded.csv`)
 
 Usage:
 
@@ -74,7 +75,7 @@ Requirements:
 ### 2. Run Predictions
 
 `IK_pred.py` - Given the input file coded as required, it generate the BA, EL and IM score.<br>
-The output is saved in the `data_output` folder.
+The output is saved as a CSV file in the `data_output` folder, with `_ImmunoKade_score` appended to the original file name (e.g., `example_viral_coded.csv` → `example_viral_coded_ImmunoKade_score.csv`)
 
 Usage:
 
