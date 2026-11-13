@@ -105,3 +105,18 @@ ________________________________________________________________________________
 
 ## Data Availability
 https://doi.org/10.5281/zenodo.21496931
+
+
+______________________________________________________________________________________________________________________________
+
+## License
+
+This project is released for **research and other noncommercial use only**.
+
+- **Code**: [PolyForm Noncommercial License 1.0.0](LICENSE)
+- **Model weights**: [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE-MODEL)
+
+Use by academic institutions, nonprofit and public research organizations, and individuals for personal research, study, or experimentation is permitted. **Any commercial use**, including use in or for the development of commercial products or services, or use by or on behalf of a for-profit entity for commercial purposes, **is not permitted** under these licenses.
+
+For commercial licensing, please contact Moderna, Inc. at [CONTACT EMAIL].
+
