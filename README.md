@@ -118,5 +118,5 @@ This project is released for **research and other noncommercial use only**.
 
 Use by academic institutions, nonprofit and public research organizations, and individuals for personal research, study, or experimentation is permitted. **Any commercial use**, including use in or for the development of commercial products or services, or use by or on behalf of a for-profit entity for commercial purposes, **is not permitted** under these licenses.
 
-For commercial licensing, please contact Moderna, Inc. at [CONTACT EMAIL].
+For commercial licensing, please contact University of Miami and Moderna, Inc. at mxc2982@miami.edu
 
